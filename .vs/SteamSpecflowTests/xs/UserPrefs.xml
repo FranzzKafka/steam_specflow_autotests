@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{0A4D9036-1ACF-4292-9163-362A177DA0A3}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SteamSpecflowTests/Features/MainPageFuncionality.feature.cs">
+    <Files>
+      <File FileName="SteamSpecflowTests/Features/MainPageFuncionality.feature.cs" Line="156" Column="9" />
+      <File FileName="SteamSpecflowTests/Helpers/CheckDownloadingHelper.cs" Line="1" Column="1" />
+      <File FileName="SteamSpecflowTests/PageObjects/MainPage.cs" Line="1" Column="1" />
+      <File FileName="SteamSpecflowTests/StepDefinitions/MainPageStepDefinitions.cs" Line="1" Column="1" />
+      <File FileName="SteamSpecflowTests/Drivers/BaseBrowserDriverSetUp.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SteamSpecflowTests" expanded="True">
+            <Node name="SteamSpecflowTests" expanded="True">
+              <Node name="Drivers" expanded="True" />
+              <Node name="Features" expanded="True">
+                <Node name="MainPageFuncionality.feature.cs" selected="True" />
+              </Node>
+              <Node name="Helpers" expanded="True" />
+              <Node name="PageObjects" expanded="True" />
+              <Node name="StepDefinitions" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SteamSpecflowTests" expanded="True">
+            <Node name="SteamSpecflowTests" expanded="True">
+              <Node name="SteamSpecflowTests.Features" expanded="True">
+                <Node name="MainPageFuncionalityFeature" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SteamSpecflowTests PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
